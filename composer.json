@@ -1,0 +1,16 @@
+{
+    "name": "zgela-services-wp-plugins/ploi-cache",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/zgela-services-wp-plugins/ploi-cache",
+    "authors": [
+      {
+        "name": "Ploi",
+        "homepage": "https://ploi.com"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=8.0"
+    }
+}
